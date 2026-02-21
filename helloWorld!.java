@@ -14,6 +14,7 @@ class App {
                 System.out.println( 7 % 2);
                 System.out.println(0.2 + 0.1);
                 System.out.println(Integer.MAX_VALUE);
+                System.out.println("Dragon's mother said \"No\"");
         }
 }
 
